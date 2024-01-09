@@ -24,7 +24,7 @@ Mart is only available on mobile platforms, our job is to make the shopping expe
 ### Clone the Project
 
 ```bash
-$ git clone https://github.com/skittlesaur/rabbitmart
+$ git clone https://github.com/qweretyetsfgsdfgsdf/rabbitmart
 ```
 
 **Note:** the `master` branch is the current production build. `releases` contain latest deployment tests. `develop` contains all new features and build.
@@ -65,12 +65,4 @@ $ npm i       # install packages
 $ npm start   # start the server
 ```
 
-## Authors
-
-<table>
-    <td align="center"><a href="https://skittlesaur.github.io"><sub><b>Baraa A.</b></sub></a><br /><a href="https://github.com/skittlesaur/rabbitmart/commits?author=skittlesaur" title="Commits">📖</a></td>
-    <td align="center"><a href="https://github.com/emansalehkhalil"><sub><b>Eman S.</b></sub></a><br /><a href="https://github.com/skittlesaur/rabbitmart/commits?author=emansalehkhalil" title="Commits">📖</a></td>
-    <td align="center"><a href="https://github.com/ssary"><sub><b>Sary N.</b></sub></a><br /><a href="https://github.com/skittlesaur/rabbitmart/commits?author=ssary" title="Commits">📖</a></td>
-    <td align="center"><a href="https://github.com/YoussefElbasha"><sub><b>Youssef S.</b></sub></a><br /><a href="https://github.com/skittlesaur/rabbitmart/commits?author=youssefelbasha" title="Commits">📖</a></td>
-</table>
 
